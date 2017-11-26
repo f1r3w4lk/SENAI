@@ -9,4 +9,5 @@
 # Aula 3 - Hardware - Kits de Desenvolvimento
 # Aula 4 - Toolchains
 # Aula 5 - Bootloaders
+# Aula 6 - kernel
 
