@@ -10,4 +10,5 @@
 # Aula 4 - Toolchains
 # Aula 5 - Bootloaders
 # Aula 6 - kernel
+# Aula 7 - RootFS
 
